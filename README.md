@@ -1,4 +1,13 @@
-# [redpesk®](https://redpesk.bzh) - Industrial long term support for secured embedded Linux systems
+<div align="center">
+<a href="https://redpesk.bzh">
+<img alt="redpesk®" src=".github/redpesk.png">
+<br>
+</a>
+</div>
+
+<h1>
+Industrial long term support for secured embedded Linux systems
+</h1>
 
 [redpesk®](https://redpesk.bzh) by [IoT.bzh](https://iot.bzh) automates continuous integration of the complex software components used in Linux embedded systems. It provides a baseline ready-to-go distribution, composing Linux standard open source packages with your own specific code into a coherent and tested Linux distribution tailored for your software, hardware and cybersecurity requirements.
 
