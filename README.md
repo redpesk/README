@@ -11,9 +11,7 @@ Industrial long term support for secured embedded Linux systems
 
 [redpesk®](https://redpesk.bzh) by [IoT.bzh](https://iot.bzh) automates continuous integration of the complex software components used in Linux embedded systems. It provides a baseline ready-to-go distribution, composing Linux standard open source packages with your own specific code into a coherent and tested Linux distribution tailored for your software, hardware and cybersecurity requirements.
 
-Please visit <https://redpesk.bzh> for more information.
-
-On Github, redpesk® is divided in multiple organizations, covering different domains:
+On Github, [redpesk®](https://redpesk.bzh) is divided in multiple organizations, covering different domains:
 
 * redpesk OS:
     * [redpesk-core](https://github.com/redpesk-core) redpesk core software packages: security, appfw ...
@@ -31,5 +29,7 @@ On Github, redpesk® is divided in multiple organizations, covering different do
 
 * redpesk incubator:
     * [redpesk-labs](https://github.com/redpesk-labs) redpesk Labs (reserved for experimentation, alpha code, POCs ...)
+
+Please visit <https://redpesk.bzh> for more information.
 
 Have fun!
