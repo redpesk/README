@@ -13,16 +13,23 @@ Industrial long term support for secured embedded Linux systems
 
 Please visit <https://redpesk.bzh> for more information.
 
-On Github, redpesk® is divided in multiple organizations:
+On Github, redpesk® is divided in multiple organizations, covering different domains:
 
-* [redpesk-automotive](https://github.com/redpesk-automotive) Redpesk components dedicated to Automotive market
-* [redpesk-common](https://github.com/redpesk-common) Redpesk common components, not part of Redpesk Core
-* [redpesk-core](https://github.com/redpesk-core) Redpesk core software packages: security, appfw ...
-* [redpesk-devtools](https://github.com/redpesk-devtools) Redpesk components for developers (Redpesk SDK, XDS ...)
-* [redpesk-industrial](https://github.com/redpesk-industrial) Redpesk components dedicated to Industrial market
-* [redpesk-infra](https://github.com/redpesk-infra) Redpesk stack (Cloud stack: backends, frontends, CI...)
-* [redpesk-labs](https://github.com/redpesk-labs) Redpesk Labs (reserved for experimentation, alpha code, POCs ...)
-* [redpesk-marine](https://github.com/redpesk-marine) Redpesk components used in marine/maritime environments
-* [redpesk-samples](https://github.com/redpesk-samples) Redpesk components used as examples/POC
+* redpesk OS:
+    * [redpesk-core](https://github.com/redpesk-core) redpesk core software packages: security, appfw ...
+    * [redpesk-common](https://github.com/redpesk-common) redpesk common components, not part of redpesk core
+    * [redpesk-devtools](https://github.com/redpesk-devtools) redpesk components for developers (redpesk SDK, XDS ...)
+    * [redpesk-samples](https://github.com/redpesk-samples) redpesk components used as examples/POC
+
+* redpesk profiles:
+    * [redpesk-automotive](https://github.com/redpesk-automotive) redpesk components dedicated to Automotive market
+    * [redpesk-industrial](https://github.com/redpesk-industrial) redpesk components dedicated to Industrial market
+    * [redpesk-marine](https://github.com/redpesk-marine) redpesk components used in marine/maritime environments
+
+* redpesk factory:
+    * [redpesk-infra](https://github.com/redpesk-infra) redpesk stack (Cloud stack: backends, frontends, CI...)
+
+* redpesk incubator:
+    * [redpesk-labs](https://github.com/redpesk-labs) redpesk Labs (reserved for experimentation, alpha code, POCs ...)
 
 Have fun!
